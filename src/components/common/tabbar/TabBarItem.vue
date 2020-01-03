@@ -24,7 +24,6 @@
     },
     data() {
       return {
-        // isActive: true
       }
     },
     computed: {
